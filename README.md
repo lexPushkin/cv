@@ -1,1 +1,1 @@
-https://github.com/lexPushkin/cv/cv
+https://lexpushkin.github.io/cv/cv
