@@ -61,7 +61,7 @@ I have worked with Python (Robot Framework), QT,  etc.
 
 *******************************************************************************************************
 
-**July-2017 - April 2018**
+**2016 - 2017**
 
 [![N|Solid](http://kb-omo.by/images/stories/logo_planar.png)](http://kb-omo.by/index.php?option=com_content&task=view&id=150&Itemid=122)
 
