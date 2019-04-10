@@ -30,7 +30,6 @@ I have worked with Python (Robot Framework), QT,  etc.
 | Programming languages: | Python, C#,  C++,  Qt|
 | Technologies: | XML/XSLT/Xpath, ASP.NET, ADO.NET  |
 | Testing Tools: | RobotFramework, Dredd, Postman |
-| Building Tools: | Maven, Gradle, MSBuild |
 | Databases: |  MS SQL|
 | Software Construction:Construction Languages:|SQL, T-SQL|
 | IDEs |MS Visual Studio |
