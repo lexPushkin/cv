@@ -1,4 +1,5 @@
 # Aliaksei Pushkin
+*citizenship: Belarus, USA permanent resident*
 
 **QA Automation Engineer, Mechanical engineer**
 
